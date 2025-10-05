@@ -5,7 +5,7 @@ GUI клиент для VLESS прокси на macOS
 
 [![macOS](https://img.shields.io/badge/macOS-10.13+-blue?logo=apple)](https://www.apple.com/macos/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/Version-1.0.0-orange.svg)](https://github.com/26info/VLESS-Client-macOS/releases)
+[![Version](https://img.shields.io/badge/Version-1.0.1-orange.svg)](https://github.com/26info/VLESS-Client-macOS/releases)
 [![Downloads](https://img.shields.io/github/downloads/26info/VLESS-Client-macOS/total.svg)](https://github.com/26info/VLESS-Client-macOS/releases)
 
 ## ✨ Особенности
