@@ -5,7 +5,7 @@ GUI клиент для VLESS прокси на macOS
 
 [![macOS](https://img.shields.io/badge/macOS-10.13+-blue?logo=apple)](https://www.apple.com/macos/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/Version-1.0.2-orange.svg)](https://github.com/26info/VLESS-Client-macOS/releases)
+[![Version](https://img.shields.io/badge/Version-1.0.3-orange.svg)](https://github.com/26info/VLESS-Client-macOS/releases)
 [![Downloads](https://img.shields.io/github/downloads/26info/VLESS-Client-macOS/total.svg)](https://github.com/26info/VLESS-Client-macOS/releases)
 
 ## ✨ Особенности
@@ -19,6 +19,7 @@ GUI клиент для VLESS прокси на macOS
 - 📊 **Мониторинг соединения** - проверка работоспособности и IP-адреса
 - ⚡ **Автозапуск и фоновая работа** - постоянный контроль соединения
 - 🌐 **Мультиязычная поддержка** - интерфейс на нескольких языках для международных пользователей
+- 📱 **xBar интеграция** - статус подключения в меню баре macOS (🟢 Connected / 🔴 Disconnected)
 
 ## 🚀 Быстрый старт
 
