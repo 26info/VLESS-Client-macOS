@@ -24,7 +24,7 @@
 
 - 🎯 **Простой графический интерфейс** - интуитивно понятное управление
 - 🔄 **Автоматическая настройка** - парсинг VLESS-ссылок и создание конфигурации
-- 🔧 На базе Xray-core — использует официальный Xray для максимальной производительности и совместимости
+- 🔧 **На базе Xray-core** — использует официальный Xray для максимальной производительности и совместимости
 - 🖥️ **Системная интеграция** - автоматическая настройка прокси для всех сетевых служб
 - 🔒 **Поддержка современных протоколов**:
   - VLESS с REALITY/TLS/None
@@ -81,7 +81,7 @@ vless://uuid@server:port?security=reality&sni=domain.com&fp=chrome&type=ws&path=
 
 - 🎯 **Simple graphical interface** - intuitive control
 - 🔄 **Automatic configuration** - parsing VLESS links and creating configuration
-- 🔧 Built on Xray-core — uses official Xray for maximum performance and compatibility
+- 🔧 **Built on Xray-core** — uses official Xray for maximum performance and compatibility
 - 🖥️ **System integration** - automatic proxy setup for all network services
 - 🔒 **Modern protocol support**:
   - VLESS with REALITY/TLS/None
