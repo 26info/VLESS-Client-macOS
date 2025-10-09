@@ -35,6 +35,12 @@
 - 📱 **xBar интеграция** - статус подключения в меню баре macOS
 - 🔄 **Умная проверка обновлений** - автоматическая проверка раз в день
 
+<div align="center">
+  
+![Интерфейс приложения](https://github.com/user-attachments/assets/3cadd5c5-3960-42da-b9c9-6c0facc5c638)
+
+</div>
+
 ### 🚀 Быстрый старт
 
 #### Скачать готовое приложение
@@ -85,6 +91,12 @@ vless://uuid@server:port?security=reality&sni=domain.com&fp=chrome&type=ws&path=
 - 🌐 **Multi-language support** - automatic system language detection
 - 📱 **xBar integration** - connection status in macOS menu bar
 - 🔄 **Smart update checking** - automatic daily checks
+
+<div align="center">
+  
+![Application Interface](https://github.com/user-attachments/assets/b72bf6eb-0694-4214-a46f-1e9f5e24443d)
+
+</div>
 
 ### 🚀 Quick Start
 
