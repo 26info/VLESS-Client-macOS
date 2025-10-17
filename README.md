@@ -7,7 +7,6 @@
 
 [![macOS](https://img.shields.io/badge/macOS-10.13+-blue?logo=apple)](https://www.apple.com/macos/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/Version-1.0.8-orange.svg)](https://github.com/26info/VLESS-Client-macOS/releases)
 [![Downloads](https://img.shields.io/github/downloads/26info/VLESS-Client-macOS/total.svg)](https://github.com/26info/VLESS-Client-macOS/releases)
 
 <img width="200" height="200" alt="vless" src="https://github.com/user-attachments/assets/a5aa1168-4cbe-4206-8cdd-a3c01408d964" />
