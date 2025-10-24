@@ -68,10 +68,6 @@ vless://uuid@server:port?security=reality&sni=domain.com&fp=chrome&type=ws&path=
 - **Память**: ~40 MB в работе
 - **Диск**: ~60 MB для приложения
 
-### 🔄 Бесплатные прокси
-
-Скачайте бесплатный [VLess Proxy List](https://github.com/26info/vless-proxy-list)
-
 ---
 
 ## English
@@ -124,10 +120,6 @@ vless://uuid@server:port?security=reality&sni=domain.com&fp=chrome&type=ws&path=
 - **Architecture support**: Intel and Apple Silicon
 - **Memory**: ~40 MB in operation
 - **Disk**: ~60 MB for application
-
-### 🔄 Free Proxies
-
-Download free [VLess Proxy List](https://github.com/26info/vless-proxy-list)
 
 ---
 
